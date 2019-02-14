@@ -1,0 +1,10 @@
+{
+  "simulation": "br.com.ig.shion.ShionSimulation",
+  "simulationId": "shionsimulation",
+  "start": 1550109004769,
+  "description": "null",
+  "scenarios": ["CurrencyConversionSimulation"],
+  "assertions": [
+
+  ]
+}
